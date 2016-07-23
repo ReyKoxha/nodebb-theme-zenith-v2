@@ -88,6 +88,7 @@
 					class="<!-- IF posts.upvoted -->upvoted<!-- ENDIF posts.upvoted -->">
 					<i class="material-icons">thumb_up</i>
 				</a>
+				<span component="post/vote-count" data-votes="{posts.votes}">{posts.votes}</span>
 				<!-- IF !downvote:disabled -->
 				<a component="post/downvote" href="#" 
 					class="<!-- IF posts.downvoted -->downvoted<!-- ENDIF posts.downvoted -->">
