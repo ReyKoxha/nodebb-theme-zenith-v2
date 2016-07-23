@@ -1,0 +1,13 @@
+{
+	"id": "nodebb-theme-zenith",
+	"hooks": [],
+	"scripts": [
+		"lib/convoe.js",
+		"lib/modules/nprogress.js",
+		"lib/modules/autohidingnavbar.min.js",
+		"lib/modules/slideout.min.js",
+		"lib/modules/typeit.min.js",
+		"lib/modules/daily.min.js",
+		"lib/client/chats.js"
+	]
+}

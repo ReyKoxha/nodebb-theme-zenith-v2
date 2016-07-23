@@ -1,0 +1,9 @@
+{
+  "name": "nodebb-theme-zenith",
+  "version": "4.0.88",
+  "nbbpm": {
+    "compatibility": "^0.8.2 || ^0.9.0"
+  },
+  "description": "Convoe @convoe - convoe.com",
+  "main": "theme.less"
+}
